@@ -1,11 +1,11 @@
 public class Basic {
     public static void main(String[] args) {
         
-        // int i = 1;
-        // while(i <= 255) {
-        // System.out.println(i);
-        // i++;
-        // }
+        int i = 1;
+        while(i <= 255) {
+        System.out.println(i);
+        i++;
+        }
 
 
 
@@ -42,12 +42,12 @@ public class Basic {
 
 
 
-        int[] arr = {5, 8, 0, -5, 11};
-        int avg = 0;
-        for(int i = 0; i <= arr.length; i++){
-        avg = avg + arr[i];
-        }
-        System.out.println(avg/arr.length);
+        // int[] arr = {5, 8, 0, -5, 11};
+        // int avg = 0;
+        // for(int i = 0; i <= arr.length; i++){
+        // avg = avg + arr[i];
+        // }
+        // System.out.println(avg/arr.length);
 
 
 
