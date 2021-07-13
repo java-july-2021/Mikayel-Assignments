@@ -6,12 +6,12 @@ public class Basic {
     
     public static void main(String[] args) {
 
-        // // Print 1-255
-        // int i = 1;
-        // while(i <= 255) {
-        // System.out.println(i);
-        // i++;
-        // }
+        // Print 1-255
+        int i = 1;
+        while(i <= 255) {
+        System.out.println(i);
+        i++;
+        }
 
 
         // // Print odd numbers between 1-255
@@ -67,12 +67,6 @@ public class Basic {
         // } 
 
 
-
-        // Greater Than Y
-
-
-
-
         // Square the values
         // int[] x = {1, 5, 10, -2}; 
         // for(int i = 0; i<x.length ; ++i){
@@ -112,12 +106,13 @@ public class Basic {
 
 
 
-        Shifting the Values in the Array     PROBLEM
-        int[] x = {1, 5, 10, 7, -2};
-        for (int i = 0; i < x.length; i++){
-            x[i] = x[i] + 1;
-            System.out.println(x[i]);
-        }
+        // Shifting the Values in the Array
+//         int[] x = {1, 5, 10, 7, -2};
+//         for (int i = 0; i < x.length; i++){
+//             x[i] = x[i + 1];
+//             x[4] = 0;
+//             System.out.println(x[i]);
+//         }
         
-    }
-}
+//     }
+// }
